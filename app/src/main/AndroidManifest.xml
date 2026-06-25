@@ -14,9 +14,9 @@
         <activity
             android:name=".MainActivity"
             android:exported="false"
-            android:windowSoftInputMode="adjustResize"></activity>
+            android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".SorteioNumeroAleatorio"
+            android:name=".SlideShow"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
