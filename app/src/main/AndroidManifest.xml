@@ -14,10 +14,9 @@
         <activity
             android:name=".MainActivity"
             android:exported="false"
-            android:windowSoftInputMode="adjustResize">
-        </activity>
+            android:windowSoftInputMode="adjustResize"></activity>
         <activity
-            android:name=".ContadorCliques"
+            android:name=".SorteioNumeroAleatorio"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
